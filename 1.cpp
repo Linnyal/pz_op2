@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     std::setlocale(LC_ALL, "ru_RU.UTF-8");
-    //задание 1
+    //задание 1 b
     int n;
     int num;
     std::cout << "Введите число, которое хотите возвести в стпень: ";
